@@ -1,0 +1,20 @@
+{
+	"mobile-frontend-editor-edit": "Редактиране",
+	"mobile-frontend-history": "Вижте историята на тази страница.",
+	"mobile-frontend-home-button": "Начало",
+	"mobile-frontend-language-article-heading": "Прочитане на друг език",
+	"mobile-frontend-main-menu-button-tooltip": "Отвори главното меню",
+	"mobile-frontend-main-menu-contributions": "Приноси",
+	"mobile-frontend-main-menu-login": "Влизане",
+	"mobile-frontend-main-menu-logout": "Излизане",
+	"mobile-frontend-main-menu-nearby": "Наблизо",
+	"mobile-frontend-main-menu-settings": "Настройки",
+	"mobile-frontend-main-menu-watchlist": "Списък за наблюдение",
+	"mobile-frontend-pageaction-edit-tooltip": "Редактиране на водещия раздел на страницата.",
+	"mobile-frontend-placeholder": "Търсене в {{SITENAME}}",
+	"mobile-frontend-random-button": "Случайна",
+	"mobile-frontend-user-page-contributions": "Приноси",
+	"mobile-frontend-user-page-member-since": "{{GENDER:$2|Член}} от $1",
+	"mobile-frontend-user-page-talk": "Беседа",
+	"mobile-frontend-user-page-uploads": "Kачвания"
+}

@@ -1,0 +1,20 @@
+{
+	"mobile-frontend-editor-edit": "തിരുത്തുക",
+	"mobile-frontend-history": "ഈ താളിന്റെ തിരുത്തൽ നാൾവഴി കാണുക.",
+	"mobile-frontend-home-button": "പ്രധാനം",
+	"mobile-frontend-language-article-heading": "മറ്റൊരു ഭാഷയിൽ വായിക്കുക",
+	"mobile-frontend-main-menu-button-tooltip": "പ്രധാന മെനു തുറക്കുക",
+	"mobile-frontend-main-menu-login": "പ്രവേശിക്കുക",
+	"mobile-frontend-main-menu-logout": "ലോഗൗട്ട്",
+	"mobile-frontend-main-menu-nearby": "സമീപസ്ഥം",
+	"mobile-frontend-main-menu-settings": "സജ്ജീകരണങ്ങൾ",
+	"mobile-frontend-main-menu-watchlist": "ശ്രദ്ധിക്കുന്നവ",
+	"mobile-frontend-pageaction-edit-tooltip": "ഈ താളിന്റെ പ്രധാന ഭാഗം തിരുത്തുക",
+	"mobile-frontend-placeholder": "{{SITENAME}} സംരംഭത്തിൽ തിരയുക",
+	"mobile-frontend-random-button": "ക്രമരഹിതം",
+	"mobile-frontend-talk-back-to-filepage": "\"$1\" എന്ന പ്രമാണത്തിലേക്ക് മടങ്ങുക.",
+	"mobile-frontend-talk-back-to-page": "\"$1\" താളിലേക്ക് മടങ്ങുക.",
+	"mobile-frontend-talk-back-to-projectpage": "\"$1\" എന്ന പദ്ധതി താളിലേക്ക് മടങ്ങുക.",
+	"mobile-frontend-talk-back-to-userpage": "\"{{GENDER:$1|$1}}\" എന്ന ഉപയോക്തൃതാളിലേക്ക് മടങ്ങുക.",
+	"mobile-frontend-user-newmessages": "താങ്കൾക്ക് താങ്കളുടെ സംവാദത്താളിൽ സന്ദേശങ്ങളുണ്ട്"
+}

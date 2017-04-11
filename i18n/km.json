@@ -1,0 +1,14 @@
+{
+	"mobile-frontend-editor-edit": "កែប្រែ",
+	"mobile-frontend-home-button": "ទំព័រដើម",
+	"mobile-frontend-language-article-heading": "អាន​ជា​ភាសា​ផ្សេង​ទៀត",
+	"mobile-frontend-main-menu-button-tooltip": "បើក​ម៉ឺនុយ​មេ",
+	"mobile-frontend-main-menu-login": "កត់ឈ្មោះចូល",
+	"mobile-frontend-main-menu-logout": "ចេញ",
+	"mobile-frontend-main-menu-nearby": "ជិតខាង",
+	"mobile-frontend-main-menu-settings": "ការ​កំណត់",
+	"mobile-frontend-main-menu-watchlist": "បញ្ជី​តាមដាន",
+	"mobile-frontend-pageaction-edit-tooltip": "កែប្រែសេចក្ដីផ្ដើមរបស់ទំព័រនេះ។",
+	"mobile-frontend-placeholder": "ស្វែងរកក្នុង{{SITENAME}}",
+	"mobile-frontend-random-button": "ចៃដន្យ"
+}
